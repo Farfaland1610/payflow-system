@@ -16,4 +16,4 @@ target/
 *.iml
 
 # Credenciales y archivos sensibles
-src/main/resources/application.properties
+src/main/resources/application.propertiesaa
